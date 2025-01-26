@@ -1,0 +1,4856 @@
+[
+  {
+    "name": "8BitDo Retro R8",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "A4Tech Bloody V7",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "A4Tech XL-750BH",
+    "wireless": false,
+    "dpi": 3600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "A4Tech XL-750BK",
+    "wireless": false,
+    "dpi": 3600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "AIM1 Shigure",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "AJAZZ AJ099",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "AJAZZ AJ139 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "AJAZZ AJ159",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "AJAZZ AJ179",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "AJAZZ AJ199",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "AJAZZ AJ199 Pro 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "AJAZZ AM3",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "AJAZZ M259",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ANTGAMER AGM535R",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "ARYE FCC-1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "ASUS ProArt MD300",
+    "wireless": true,
+    "dpi": 4200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Chakram",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Gladius II",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Gladius III",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Harpe Ace",
+    "wireless": true,
+    "dpi": 36000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Harpe Ace Extreme",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "ASUS ROG Harpe Ace Mini",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "ASUS ROG Keris",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Keris II Ace",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "ASUS ROG Pugio",
+    "wireless": false,
+    "dpi": 7200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Sica",
+    "wireless": false,
+    "dpi": 5000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Spatha",
+    "wireless": false,
+    "dpi": 8200,
+    "polling_rate": 2000
+  },
+  {
+    "name": "ASUS ROG Strix Carry",
+    "wireless": true,
+    "dpi": 7200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Strix Evolve",
+    "wireless": false,
+    "dpi": 7200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Strix Impact",
+    "wireless": false,
+    "dpi": 5000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Strix Impact II",
+    "wireless": false,
+    "dpi": 6200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Strix Impact III",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS ROG Strix Impact III Wireless",
+    "wireless": true,
+    "dpi": 36000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS TUF Gaming M3",
+    "wireless": false,
+    "dpi": 7000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS TUF Gaming M3 Gen II",
+    "wireless": false,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ASUS TUF M4",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ATK F1",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "ATK Fierce X",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "ATK X1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "ATK Z1",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "AULA SC580",
+    "wireless": true,
+    "dpi": 10000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "AULA SC680",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "AULA SC800",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Acer Cestus 330",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Aigo GM80",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Akko AG ONE 8K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Akko AG One NearLink",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Akko AG325",
+    "wireless": false,
+    "dpi": 12800,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Akko AG325W",
+    "wireless": true,
+    "dpi": 1600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Alienware AW320M",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Alienware AW610M",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Alienware AW620M",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Alienware AW720M",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Alienware Pro Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Amazon Basics Mouse",
+    "wireless": false,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Apple Magic Mouse",
+    "wireless": true,
+    "dpi": 1300,
+    "polling_rate": 120
+  },
+  {
+    "name": "Aqirys TGA Alpha",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ardor Gaming Fury",
+    "wireless": false,
+    "dpi": 12400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ardor Gaming Immortality",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ardor Gaming Phantom Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ardor Gaming Prime",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ardor Gaming Ulta (big back)",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ardor Gaming Ulta (mid back)",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ardor Gaming Ulta (small back)",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Atompalm Hydrogen",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Atompalm Hydrogen 2",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Attack Shark R1",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Attack Shark R2",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Attack Shark R3",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Attack Shark R6",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Attack Shark X11",
+    "wireless": true,
+    "dpi": 22000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Attack Shark X3",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Attack Shark X3 Max",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Attack Shark X3 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Attack Shark X6",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "CC Beanmouse",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "COMMATECH FKMINI4",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Cherry Xtrfy M50",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cherry Xtrfy M64 Pro 8K Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Cherry Xtrfy M64 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cherry Xtrfy M68 Pro 8K Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Cherry Xtrfy M68 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master CM110",
+    "wireless": false,
+    "dpi": 6000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master CM310",
+    "wireless": false,
+    "dpi": 10000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM310",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM530",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM531",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM710",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM711",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM711 Lite",
+    "wireless": false,
+    "dpi": 10000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM712",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM720",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM730",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM731",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM830",
+    "wireless": false,
+    "dpi": 24000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Cooler Master MM831",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Dark Core RGB Pro",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Corsair Dark Core RGB Pro SE",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Corsair Darkstar Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Corsair Glaive Pro",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Glaive RGB",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Harpoon RGB",
+    "wireless": false,
+    "dpi": 6000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Harpoon RGB Pro",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Harpoon RGB Wireless",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Ironclaw RGB",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Ironclaw RGB Wireless",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Katar Elite Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Katar Pro Wireless",
+    "wireless": true,
+    "dpi": 10000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Katar Pro XT",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair M55 RGB Pro",
+    "wireless": false,
+    "dpi": 12400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair M55 Wired",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair M55 Wireless",
+    "wireless": true,
+    "dpi": 24000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair M65 RGB Elite",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair M65 RGB Pro",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair M65 RGB Ultra",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Corsair M65 RGB Ultra Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Corsair M75",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Corsair M75 Air Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair M75 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Nightsabre Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Corsair Nightsword RGB",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Sabre Pro",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Corsair Sabre RGB Pro",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Corsair Sabre RGB Pro Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Corsair Scimitar Elite Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Corsair Scimitar Pro RGB",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Scimitar RGB",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Corsair Scimitar RGB Elite",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "CryoMods Fractal Wireless",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dareu A950",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dareu A950 Air",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Dareu A950 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dareu A950 Pro 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Dareu A950 Pro 4K Magnesium",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Dareu A955",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dareu A980",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Dareu A980 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Dareu A980 Pro Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Dareu EM901",
+    "wireless": true,
+    "dpi": 6000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Darmoshark M2",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Darmoshark M3",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Darmoshark M3 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Darmoshark M3 Micro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Darmoshark M3 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Darmoshark M3 Pro Max",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Darmoshark M3 XS",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Darmoshark M3S",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Darmoshark M3S Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Darmoshark M5",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Darmoshark N3",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Darmoshark N5",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Delux M500 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Delux M600",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Delux M600 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Delux M600 Ultra",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Delux M700",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Delux M700 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Delux M700 Pro+",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Delux M700 Ultra",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Delux M800 Pro",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Delux M800 Pro 3395",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Delux M800 Ultra",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Delux M900 Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Delux M900 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Dornfinger Veno-S",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dream Machines DM1 FPS",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dream Machines DM2 Comfy S",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dream Machines DM4 Evo",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dream Machines DM4 Evo S",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dream Machines DM5 Blink",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dream Machines DM6 Duo",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dream Machines DM6 Holey",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dream Machines DM6 Holey S",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Dream Machines DM6 Trio",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Drevo Falcon",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ducky Feather",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ELECOM VM501BK",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ELECOM VM501LBK",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ELECOM VM510BK",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ELECOM VM600PE",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ELECOM VM610BK",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "EVGA X12",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "EVGA X15",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "EVGA X17",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "EVGA X20",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Edifier Hecate G3M Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Edifier Hecate G5M",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Endgame Gear OP1",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Endgame Gear OP1w 4k",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Endgame Gear XM1",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Endgame Gear XM1 RGB",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Endgame Gear XM1r",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Endgame Gear XM2 8k",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Endgame Gear XM2w",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Endgame Gear XM2we",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ewen X21",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Fallen Pantera Pro",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Fantech Aria E",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Fantech Aria II",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Fantech Aria XD7",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Fantech Go XD5",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Fantech Helios II Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Fantech Helios II Pro S",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Fantech Helios XD3",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Fantech Helios XD3V2",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Fantech X11 Daredevil",
+    "wireless": false,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Feinmann F01",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Finalmouse Air58",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 500
+  },
+  {
+    "name": "Finalmouse Scream One",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 500
+  },
+  {
+    "name": "Finalmouse Starlight-12 Medium",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Finalmouse Starlight-12 Small",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Finalmouse ULX Competition",
+    "wireless": true,
+    "dpi": 6400,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Finalmouse Ultralight 2",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 500
+  },
+  {
+    "name": "Finalmouse Ultralight Phantom",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 500
+  },
+  {
+    "name": "Finalmouse Ultralight Pro",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 500
+  },
+  {
+    "name": "Finalmouse Ultralight Pro Sunset",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 500
+  },
+  {
+    "name": "Finalmouse UltralightX Cheetah (S)",
+    "wireless": true,
+    "dpi": 6400,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Finalmouse UltralightX Lion (M)",
+    "wireless": true,
+    "dpi": 6400,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Finalmouse UltralightX Tiger (L)",
+    "wireless": true,
+    "dpi": 6400,
+    "polling_rate": 8000
+  },
+  {
+    "name": "FineMax Noah",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Fnatic Bolt",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Fnatic CLUTCH 2",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HSK",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HSK Plus",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HSK Plus 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "G-Wolves HSK Plus Lite",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HSK Pro 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "G-Wolves HSK Pro Ace",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HT-S2 8K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "G-Wolves HTM",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HTM Ace",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HTM Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HTR 8K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "G-Wolves HTR Pro 8K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "G-Wolves HTS",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "G-Wolves HTS Ace Wireless",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HTS Plus",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HTS Plus 4K",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "G-Wolves HTS Plus 8K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "G-Wolves HTS Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HTX 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "G-Wolves HTX Ace",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves HTX Mini 8K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "G-Wolves Skoll",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "G-Wolves Skoll Mini",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "GANSS FLX3",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "GANSS FLX3 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "GITOPER G1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "GITOPER G2",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "GITOPER G3",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Gamesense META Wired",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Gamesense MVP Wired",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Gamesense MVP Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model D",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model D 2 Pro 1KHz",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model D 2 Pro 4K/8KHz",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Glorious Model D 2 Wired",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model D 2 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model D Pro",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model D Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model D-",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model D- Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model I",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model I 2 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model O",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model O 2 Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model O 2 Pro 1KHz",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model O 2 Pro 4K/8KHz",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Glorious Model O 2 Wired",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model O 2 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model O Pro",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model O Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model O-",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Model O- Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Glorious Series 2 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Glorious Series One Pro",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "GravaStar Mercury M1 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "GravaStar Mercury M2",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HK Gaming Sirius M",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HUO JI E-YOOSO",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HaunterWell HFC",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "HaunterWell HMF",
+    "wireless": false,
+    "dpi": 20000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "HaunterWell HZ1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Higround Yuma",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Hitscan Hyperlight",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "HyperX Pulsefire Core",
+    "wireless": false,
+    "dpi": 6200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire Dart",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire FPS Pro",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire Haste",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire Haste 2 Core Wireless",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire Haste 2 Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire Haste 2 Wired",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "HyperX Pulsefire Haste 2 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire Haste Wireless",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire Raid",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire Surge",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "HyperX Pulsefire Warp",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "IFYOO G03 (Long)",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "IFYOO G03 (Short)",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "IFYOO G63",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "IPI Float",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "IROK HE3",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "IROK HE3 PRO",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "IROK HE3 SE",
+    "wireless": true,
+    "dpi": 10000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "IXILAB X1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "IXILAB X1 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "IXILAB X1 Pro Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Incott G23",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Incott G23 Pro",
+    "wireless": true,
+    "dpi": 45000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Incott G24",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Incott G24 Pro",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Incott GHERO",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Incott GHERO Pro",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Irocks M31R",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ironcat HPC01M",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ironcat HPC01M Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Ironcat HPC02",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ironcat HPC02M",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Keychron Lemokey G1",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Keychron Lemokey G2",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Keychron M1 Wired",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Keychron M1 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Keychron M2",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Keychron M2 Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Keychron M3",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Keychron M3 4K",
+    "wireless": true,
+    "dpi": 25999,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Keychron M3 Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Keychron M3 Mini 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Keychron M3 Mini 4K - Metal Edition",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Keychron M4",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Keychron M4 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Keychron M6",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Keychron M7",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Kysona Aztec",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Kysona M511",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Kysona M600",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Kysona M617",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Kysona Mars SE",
+    "wireless": true,
+    "dpi": 24000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "LAMZU Atlantis",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "LAMZU Atlantis Mini",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "LAMZU Atlantis Mini 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "LAMZU Atlantis Mini Champion",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "LAMZU Atlantis Mini Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "LAMZU Atlantis OG V2",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "LAMZU Atlantis OG V2 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "LAMZU Atlantis OG V2 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "LAMZU MAYA",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "LAMZU MAYA 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "LAMZU MAYA X",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "LAMZU PARO",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "LAMZU Tachi",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "LAMZU Thorn",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "LAMZU Thorn 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "LAMZU x Fnatic MAYA 8K",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "LAMZU x Fnatic MAYA X 8K",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "LAMZU x Fnatic Thorn",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "LTC GM022",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Lenovo Legion",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Lenovo Legion M410",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Lethal Gaming Gear LA-1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech B100",
+    "wireless": false,
+    "dpi": 1000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G MX518",
+    "wireless": false,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G Pro",
+    "wireless": false,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G Pro 2 Lightspeed",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Logitech G Pro Wireless",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G Pro X Superlight",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G Pro X Superlight 2",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Logitech G Pro X Superlight 2 DEX",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Logitech G100s",
+    "wireless": false,
+    "dpi": 2500,
+    "polling_rate": 500
+  },
+  {
+    "name": "Logitech G102 Lightsync",
+    "wireless": false,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G103 Prodigy",
+    "wireless": false,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G203 Lightsync",
+    "wireless": false,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G203 Prodigy",
+    "wireless": false,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G3",
+    "wireless": false,
+    "dpi": 2000,
+    "polling_rate": 500
+  },
+  {
+    "name": "Logitech G300s",
+    "wireless": false,
+    "dpi": 2500,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G303 Daedalus Apex",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G303 Shroud Edition",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G304 Lightspeed",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G305 Lightspeed",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G309",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G400",
+    "wireless": false,
+    "dpi": 3600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G400s",
+    "wireless": false,
+    "dpi": 4000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G402 Hyperion Fury",
+    "wireless": false,
+    "dpi": 4000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G403",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G403 Hero",
+    "wireless": false,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G502 Hero",
+    "wireless": false,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G502 Lightspeed",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G502 X",
+    "wireless": false,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G502 X Lightspeed",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G502 X Plus",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G600",
+    "wireless": false,
+    "dpi": 8200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G602",
+    "wireless": true,
+    "dpi": 2500,
+    "polling_rate": 500
+  },
+  {
+    "name": "Logitech G603 Lightspeed",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G604 Lightspeed",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G703 Lightspeed",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G705",
+    "wireless": true,
+    "dpi": 8200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G903 Lightspeed",
+    "wireless": true,
+    "dpi": 25600,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Logitech G9x",
+    "wireless": false,
+    "dpi": 1000,
+    "polling_rate": 5700
+  },
+  {
+    "name": "Logitech Lift Vertical",
+    "wireless": true,
+    "dpi": 4000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech M100",
+    "wireless": false,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech M171",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech M185",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech M187",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech M190",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech M238",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech M240",
+    "wireless": true,
+    "dpi": 4000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech M280",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 130
+  },
+  {
+    "name": "Logitech M510",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech M720 Triathlon",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech MX Anywhere",
+    "wireless": true,
+    "dpi": 1000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech MX Master",
+    "wireless": true,
+    "dpi": 1600,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech MX Master 2S",
+    "wireless": true,
+    "dpi": 4000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech MX Master 3",
+    "wireless": true,
+    "dpi": 4000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech MX Master 3S",
+    "wireless": true,
+    "dpi": 8000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech MX Vertical",
+    "wireless": true,
+    "dpi": 4000,
+    "polling_rate": 125
+  },
+  {
+    "name": "Logitech MX518",
+    "wireless": false,
+    "dpi": 1600,
+    "polling_rate": 125
+  },
+  {
+    "name": "MACHENIKE L7 Air",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "MACHENIKE L8",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "MACHENIKE M7",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "MCHOSE A5",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "MCHOSE A5 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "MCHOSE A5 Pro Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "MCHOSE A5 Ultra",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MCHOSE A7",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MCHOSE A7 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MCHOSE AX5",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MCHOSE AX5 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "MCHOSE AX5 Pro Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MCHOSE G3",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "MCHOSE G3 Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MCHOSE G3 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "MCHOSE G3 SE",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "MCHOSE G3 Ultra",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MCHOSE L7",
+    "wireless": true,
+    "dpi": 42000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MCHOSE M7",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MCHOSE M7 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "MSI Clutch GM41",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Madlions Mad G",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Mancer Lead 2",
+    "wireless": false,
+    "dpi": 12400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Mancer Tauri",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Metapanda P1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Metapanda P1 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Metapanda P1 Pro Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Metaphyuni Metapanda01",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Microsoft Classic IntelliMouse",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Microsoft Pro IntelliMouse",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Microsoft Sidewinder X8",
+    "wireless": true,
+    "dpi": 4000,
+    "polling_rate": 500
+  },
+  {
+    "name": "Microsoft Wheel Mouse Optical",
+    "wireless": false,
+    "dpi": 400,
+    "polling_rate": 125
+  },
+  {
+    "name": "Midnight Thread C1",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Mionix Castor",
+    "wireless": false,
+    "dpi": 5000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Mionix Castor Pro",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Mionix Naos 3200",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Mionix Naos 7000",
+    "wireless": false,
+    "dpi": 7000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Mionix Naos 8200",
+    "wireless": false,
+    "dpi": 8200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Mionix Naos Pro",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Mionix Naos QG",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Monka G995W",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Monka M1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Monka M1 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Monka M1 Pro Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Monka M3",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Monka M3 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Motospeed X6",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Mountain Makalu 67",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Mountain Makalu Max",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "NZXT Lift",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "NZXT Lift 2 Ergo",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "NZXT Lift 2 Starfield",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "NZXT Lift 2 Symm",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Ninjutso Katana Superlight",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ninjutso Katana Ultralight",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ninjutso Origin One X",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ninjutso Sora",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ninjutso Sora 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Ninjutso Sora V2",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Nitrite Labs Carbon XT1 Wired",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Nitrite Labs Carbon XT1 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Nixeus Revel",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Noir M1",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Noir M1 Lite",
+    "wireless": true,
+    "dpi": 10000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Noir M2",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Noir M2 MG",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Noir M2 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Nyfter ELT 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "PHYLINA S450",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "PHYLINA S450 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "PMM AIM 8K",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM BLAZE",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "PMM CORE",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "PMM CRAZE 8K",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM CYBER",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM CYBER 4.0",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM CYBER 8K",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM CYBER ZK",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM FUSE",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "PMM Fuse 8K",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM NEO 8K",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM NITE 8K",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM TITAN 8K L",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM TITAN M",
+    "wireless": true,
+    "dpi": 25000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "PMM TITAN S",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "PMM VORTEX 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "PMM VORTEX 8K",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PMM VORTEX M",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "PMM VORTEX S",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "PMM ZEN 8K",
+    "wireless": true,
+    "dpi": 35000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pichau Hive S",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2 CrazyLight",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar X2 Mini Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2 v3",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar X2A",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2A Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2A eS",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar X2A v3",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar X2H",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2H Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2H Wired",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2H eS",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar X2H v3",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar X2V2",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X2V2 Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar X3",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar X3 LHD",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar X3 LHD Mini",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar X3 Mini",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pulsar Xlite",
+    "wireless": false,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar Xlite V2 Mini Wireless",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar Xlite V2 Wireless",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar Xlite Wired",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar Xlite Wireless",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pulsar Xlite v4",
+    "wireless": true,
+    "dpi": 32000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "PureTrak Valor Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pwnage Ambi Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pwnage Ergo",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pwnage Ergo Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pwnage StormBreaker",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Pwnage StormBreaker Max CF",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Pwnage Symm 1",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pwnage Symm 1 Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pwnage Symm 2",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Pwnage Trinity",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "RAKK BULUS",
+    "wireless": true,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAKK Gahum",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAKK Kaptan Trimode",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAKK Kaptan Wired",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAKK MAG-AN",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAKK Talan",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAKK Talan Aero",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAKK Talan Air",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAKK Tanaw",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAWM ES21",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "RAWM SA-MH01",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAWM SA-ML01",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "RAWM SA-ML01 Plus",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "RAWM SA-SH01",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAWM SA-SH01 Pro",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "RAWM SA-SL01",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "RAWM SA-SL01 Pro",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "ROCCAT Burst Pro",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Burst Pro Air",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Burst Pro Core",
+    "wireless": false,
+    "dpi": 8500,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Kain 100 AIMO",
+    "wireless": false,
+    "dpi": 8500,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Kain 120 AIMO",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Kain 200 AIMO",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Kone AIMO Remastered",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Kone Pro",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Kone Pro Air",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Kone Pure Ultra",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Kone XP",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Kone XP Air",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Pure Air",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Pure SEL",
+    "wireless": false,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ROCCAT Tyon",
+    "wireless": false,
+    "dpi": 8200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ragnok 2 (FireGrip)",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Ragnok ErgoStrike7",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Rapoo VT 960PRO",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Rapoo VT1Air MAX",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Rapoo VT1PRO",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Rapoo VT1PRO MAX",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Rapoo VT3 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Rapoo VT3 Pro Max",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Rapoo VT3S",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Rapoo VT9 Air",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Rapoo VT900S",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Rapoo VT9PRO",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Rapoo VT9PRO Air Lite",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Rapoo VT9PRO Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Rapoo VT9S",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Abyssus 2014",
+    "wireless": false,
+    "dpi": 3500,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Abyssus Essential",
+    "wireless": false,
+    "dpi": 7200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Atheris",
+    "wireless": true,
+    "dpi": 7200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Basilisk",
+    "wireless": true,
+    "dpi": 35000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Basilisk Essential",
+    "wireless": false,
+    "dpi": 6400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Basilisk Ultimate",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Basilisk V2",
+    "wireless": false,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Basilisk V3",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Basilisk V3 Pro",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Basilisk V3 X HyperSpeed",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Basilisk X HyperSpeed",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Cobra",
+    "wireless": false,
+    "dpi": 8500,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Cobra Pro",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Razer Copperhead",
+    "wireless": false,
+    "dpi": 2000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer DeathAdder Chroma",
+    "wireless": false,
+    "dpi": 10000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer DeathAdder Elite",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer DeathAdder Essential",
+    "wireless": false,
+    "dpi": 6400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer DeathAdder Expert",
+    "wireless": false,
+    "dpi": 6400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer DeathAdder V2",
+    "wireless": false,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer DeathAdder V2 Mini",
+    "wireless": false,
+    "dpi": 8500,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer DeathAdder V2 Pro",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer DeathAdder V2 X HyperSpeed",
+    "wireless": true,
+    "dpi": 14000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer DeathAdder V3",
+    "wireless": false,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Razer DeathAdder V3 HyperSpeed",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Razer DeathAdder V3 Pro",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Razer Diamondback 2015",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Imperator",
+    "wireless": false,
+    "dpi": 6400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Krait 2013",
+    "wireless": false,
+    "dpi": 6400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Lancehead",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Lancehead Wireless",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Mamba Elite",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Mamba Wireless",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Naga Left-Handed",
+    "wireless": false,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Naga Pro",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Naga Trinity",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Naga V2 HyperSpeed",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Naga V2 Pro",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Naga X",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Orochi V2",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Ouroboros",
+    "wireless": false,
+    "dpi": 8200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Pro Click",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Pro Click Mini",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Viper",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Viper 8KHz",
+    "wireless": false,
+    "dpi": 20000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Razer Viper Mini",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Razer Viper Ultimate",
+    "wireless": true,
+    "dpi": 20000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Viper V2 Pro",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Razer Viper V3 HyperSpeed",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Razer Viper V3 Pro",
+    "wireless": true,
+    "dpi": 35000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Redragon G49 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Redragon M656 Gainer",
+    "wireless": null,
+    "dpi": 3200,
+    "polling_rate": 500
+  },
+  {
+    "name": "Redragon M693",
+    "wireless": true,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Redragon M711 Cobra",
+    "wireless": false,
+    "dpi": 10000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Redragon M724",
+    "wireless": false,
+    "dpi": 12400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Redragon M810 Pro",
+    "wireless": true,
+    "dpi": 10000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Redragon M908 Impact",
+    "wireless": false,
+    "dpi": 12400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Redragon M913 Impact Elite",
+    "wireless": true,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Redragon M916 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Redragon M916 Pro 4K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Redragon M991",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Redragon M995",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Redragon M996",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Rexus Daxa Air IV",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SPC Gear LIX Plus Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Santali Aagaz S1-O",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Scyrox V6",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Scyrox V8",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Sprime PM1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "SteelSeries Aerox 3",
+    "wireless": false,
+    "dpi": 8500,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Aerox 3 Wireless",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Aerox 5",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Aerox 5 Wireless",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Aerox 9 Wireless",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Kinzu v3",
+    "wireless": false,
+    "dpi": 2000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Prime",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Prime Mini",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Prime Mini Wireless",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Prime Wireless",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Prime+",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 110",
+    "wireless": false,
+    "dpi": 7200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 3",
+    "wireless": false,
+    "dpi": 8500,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 3 Wireless",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 300",
+    "wireless": false,
+    "dpi": 6500,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 300S",
+    "wireless": false,
+    "dpi": 7200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 310",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 5",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 500",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 600",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 650 Wireless",
+    "wireless": true,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Rival 710",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Sensei 310",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "SteelSeries Sensei Ten",
+    "wireless": false,
+    "dpi": 18000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Swiftpoint Creator",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Swiftpoint ErgoPoint",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Swiftpoint Tracer",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Swiftpoint Z2",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "TMKB Falcon M1SE",
+    "wireless": false,
+    "dpi": 12800,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Teamwolf Lurker MK-01",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Tecware Pulse Elite",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Teevolution Aria",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Teevolution Helios II Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "TenTen Zero Gravity",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "TenZ Secret Mouse",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 8000
+  },
+  {
+    "name": "ThundeRobot ML6 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ThundeRobot ML602",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ThundeRobot ML9 Mini",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "ThundeRobot ML901",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "ThundeRobot ML903",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "ThundeRobot ML9S",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Turtle Beach Burst II Air",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Turtle Beach Kone II",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Turtle Beach Kone II Air",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Turtle Beach Kone XP Air",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Turtle Beach Pure Air",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Turtle Beach Pure SEL",
+    "wireless": false,
+    "dpi": 8000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "VAXEE E1",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VAXEE OUTSET AX",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "VAXEE OUTSET AX Wireless",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "VAXEE OUTSET AX Wireless 4K",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VAXEE XE",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "VAXEE XE Wireless",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "VAXEE XE Wireless 4K",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VAXEE XE-S L Wireless 4K",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VAXEE XE-S Wireless 4K",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VAXEE ZYGEN NP-01",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "VAXEE ZYGEN NP-01 Wireless 4K",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VAXEE ZYGEN NP-01S",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "VAXEE ZYGEN NP-01S V2 Wireless",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VAXEE ZYGEN NP-01S Wireless",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "VAXEE ZYGEN NP-01S Wireless 4K",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VAXEE x Ninjutso Sora 4K",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VGN Dragonfly F1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "VGN Dragonfly F1 MOBA",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VGN Dragonfly F1 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VGN Dragonfly F1 Pro Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VGN R1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "VGN R1 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VGN R1 Pro Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VGN R1 SE",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "VXE MAD R",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "VXE MAD R Major",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "VXE R1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "VXE R1 Pro",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VXE R1 Pro Max",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "VXE R1 SE",
+    "wireless": true,
+    "dpi": 18000,
+    "polling_rate": 2000
+  },
+  {
+    "name": "Valkyrie M1",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Vancer Gemini Castor",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Vancer Gemini Pollux",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Vancer Gretxa",
+    "wireless": true,
+    "dpi": 6400,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Vancer Groove",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Vancer Thrash",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Vancer X Arbiter AKITSU",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "WLmouse Beast X",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "WLmouse Beast X 8K",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "WLmouse Beast X Max",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "WLmouse Beast X Mini",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "WLmouse Sword X",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "WLmouse Ying",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Waizowl OGM Cloud",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Waizowl OGM Cloud V2",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Waizowl OGM Cloud XS",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Waizowl OGM One",
+    "wireless": true,
+    "dpi": 5000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Waizowl OGM Pro",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Xenics Titan GX Air Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xinshuntian G820",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xtrfy M4",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xtrfy M4 Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xtrfy M42",
+    "wireless": false,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xtrfy M42 (lower back)",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xtrfy M42 Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xtrfy M8 Wireless",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xtrfy MZ1",
+    "wireless": false,
+    "dpi": 16000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xtrfy MZ1 Wireless",
+    "wireless": true,
+    "dpi": 19000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Xtro Eris",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zaopin Z1",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Zaopin Z2",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Zaopin Z2 Mini",
+    "wireless": true,
+    "dpi": 30000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Zaunkoenig M2K",
+    "wireless": false,
+    "dpi": 12000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Zaunkoenig M3K",
+    "wireless": false,
+    "dpi": 20000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "Zowie AM",
+    "wireless": false,
+    "dpi": 2300,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC1-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC1-B V2",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC1-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC1-CW",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC2-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC2-B V2",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC2-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC2-CW",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC3-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie EC3-CW",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK1+-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK1+-B V2",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK1+-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK1-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK1-B V2",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK1-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK2-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK2-B V2",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK2-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie FK2-DW",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Zowie MiCO",
+    "wireless": false,
+    "dpi": 1600,
+    "polling_rate": 500
+  },
+  {
+    "name": "Zowie S1-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie S1-B V2",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie S1-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie S2-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie S2-B V2",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie S2-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie S2-DW",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Zowie U2",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "Zowie ZA11-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie ZA11-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie ZA12-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie ZA12-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie ZA13-B",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie ZA13-C",
+    "wireless": false,
+    "dpi": 3200,
+    "polling_rate": 1000
+  },
+  {
+    "name": "Zowie ZA13-DW",
+    "wireless": true,
+    "dpi": 3200,
+    "polling_rate": 4000
+  },
+  {
+    "name": "cOoLm0Dz  OPt1p",
+    "wireless": false,
+    "dpi": 26000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "cOoLm0Dz finalt1p",
+    "wireless": false,
+    "dpi": 20000,
+    "polling_rate": 8000
+  },
+  {
+    "name": "strayfe M55 Pro 8k",
+    "wireless": true,
+    "dpi": 26000,
+    "polling_rate": 8000
+  }
+]
