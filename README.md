@@ -1,5 +1,13 @@
 # quake.world-data
-Misc data used by Quake.World.
+> Misc data used by Quake.World
+
+## Usage: CDN via statically.io
+**Example**: get the file `/hardware/mice.json`
+```
+https://cdn.statically.io/gh/quakeworld/quake.world-data/master/hardware/mice.json
+```
+
+## Sources
 
 ```sh
 # mice.json (https://www.eloshapes.com/mouse/database)
